@@ -1,0 +1,88 @@
+
+ </div><html>
+
+<head>
+    <title class="amarelo">Animes mais vistos</title>
+    <style>
+        .a {
+            background-color: pink;
+        }
+
+        .vermelho {
+            color: red;
+        }
+
+        .azul {
+            color: blue;
+        }
+
+        .verde {
+            color: green;
+        }
+
+        .amarelo {
+            color: yellow;
+        }
+    </style>
+</head>
+
+<body class="a">
+
+    <p>
+        <font size="5" face="Verdana">
+
+            <h1 class="amarelo">3 Animes mais vistos</h1>
+            <h1>
+                <ul>
+                    <li class="amarelo">One piece</li>
+                </ul>
+            </h1>
+            <p class="vermelho"><strong>One piece</strong> é uma série de mangá escrita e ilustrada por Eiichiro Oda. Os
+                capítulos têm
+                sido serializados na revista Weekly Shōnen Jump desde 22 de julho de 1997, com os capítulos compilados e
+                publicados em 103 volumes tankōbon pela editora Shueisha até agosto de 2022. One Piece conta as
+                aventuras de Monkey D. Luffy, um jovem cujo corpo ganhou as propriedades de borracha após ter comido uma
+                fruta do diabo acidentalmente. Com sua tripulação, os Piratas do Chapéu de Palha, Luffy explora a Grand
+                Line em busca do tesouro mais procurado do mundo, o "One Piece", a fim de se tornar o próximo Rei dos
+                Piratas.</p>
+            <img src="https://static.wikia.nocookie.net/dublagem/images/8/8d/One_Piece.png/revision/latest?cb=20220713000245&path-prefix=pt-br"
+                alt="sla">
+            <h1>
+                <ul>
+                    <li class="amarelo">Attack on Titan</li>
+                </ul>
+            </h1>
+            <p class="azul"><strong>Shingeki no Kyojin</strong>também conhecido pelo título em inglês Attack on Titan, é
+                uma série de
+                mangá escrita e ilustrada por Hajime Isayama. É ambientado em um mundo onde a humanidade vive dentro de
+                cidades cercadas por três enormes muralhas que os protegem dos gigantescos humanóides devoradores de
+                humanos chamados de Titãs; a história segue Eren Yeager, que jura exterminar os Titãs após um Titã
+                causar a destruição de sua cidade natal e a morte de sua mãe. Shingeki no Kyojin teve seus capítulos
+                publicados na revista mensal de mangás shōnen Bessatsu Shōnen Magazine da editora Kodansha entre
+                setembro de 2009 a abril de 2021, com os seus capítulos compilados em 34 volumes</p>
+            <img src="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSctyYHNUQJqniZ06VOzi1rPlPp.jpg" alt="sla">
+            <h1 class="amarelo">
+                <ul>
+                    <li>Demon Slayer</li>
+                </ul>
+            </h1>
+            <p class="verde"><strong>Kimetsu no Yaiba</strong> também conhecido pelo título em língua inglesa Demon
+                Slayer (Matador de
+                Demônios, em português) é uma série japonesa de mangá shōnen escrita e ilustrada por Koyoharu Gotōge. O
+                mangá é serializado desde 15 de fevereiro de 2016 e foi encerrado em 18 de maio de 2020 na revista
+                semanal Weekly Shōnen Jump, com seus capítulos sendo reunidos em 23 volumes tankōbon pela editora
+                Shueisha. Uma adaptação de um mangá para um anime de 26 episódios, produzida pelo estúdio ufotable, foi
+                exibida na 1° temporada entre 6 de abril e 28 de setembro de 2019. A 2ª Temporada, produzida pelo
+                estúdio ufotable, foi exibida entre 10 de outubro de 2021 até 13 de fevereeiro de 2022.</p>
+            <p class="verde">Em setembro de 2019, foi divulgado que todos os volumes juntos da série já tinham excedido
+                mais de 10
+                milhões de cópias vendidas. Em dezembro de 2019, o mangá já contava com mais de 25 milhões de cópias em
+                circulação</p>
+            <img src="https://static.wikia.nocookie.net/liberproeliis/images/7/7f/Demon.jpg/revision/latest?cb=20191007035840&path-prefix=pt-br"
+                alt="sla">
+        </font>
+    </p>
+
+</body>
+
+</html>
